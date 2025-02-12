@@ -46,6 +46,8 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: |
+      ![](/images/Hacker.png)
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
