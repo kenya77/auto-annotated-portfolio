@@ -48,12 +48,6 @@ sections:
     actions: []
     text: |
       ![](/images/Hacker.png)
-    media:
-      type: ImageBlock
-      url: /images/Hacker.png
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
